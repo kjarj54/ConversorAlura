@@ -32,3 +32,6 @@ This Java application allows users to convert currencies using the Exchange Rate
 You need to obtain an API key from Exchange Rate API and replace it in the `CurrencyApi.java` file to use the application.
 
 
+## ***Insignia por concluir el challenge***
+
+![image](https://github.com/kjarj54/ConversorAlura/blob/master/Badge-Conversor.png)
